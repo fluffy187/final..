@@ -1,0 +1,92 @@
+.papa{
+	position: absolute;
+	top: 10px;
+	left: 200px;
+	width: 1000px;
+	height: 1190px;
+	background: red;
+}
+.hijo1{
+	position: absolute;
+	top: 350px;
+	left:800px;
+	width: 160px;
+	height: 130px;
+	border-radius: 250px;
+	background: url(arg.png);
+	border: solid 5px white;
+}
+.hijo2{
+	position: absolute;
+	top: 120px;
+	left:0px;
+	width: 160px;
+	height: 130px;
+	border-radius: 250px;
+	background: url(bolivia.png);
+	border: solid 5px white;
+}
+.hijo3{
+	position: absolute;
+	top: 120px;
+	left: 0px;
+	width: 160px;
+	height: 130px;
+	border-radius: 300px;
+	background: url(guatemala.png);
+	border: solid 5px white;
+}
+.hijo4{
+	position: absolute;
+	top: 120px;
+	left: -5px;
+	width: 170px;
+	height: 130px;
+	border-radius: 350px;
+	background: url(mexico.png);
+	border: solid 5px white;
+}
+.hijo5{
+	position: absolute;
+	top: 110px;
+	left: -10px;
+	width: 170px;
+	height: 130px;
+	border-radius: 350px;
+	background: url(urug.png);
+	border: solid 5px white;
+}
+.hijo6{
+   position: absolute;
+   top: -300px;
+	 left: -450px;
+	 width: 300px;
+	 height: 150px;
+   background: url(tambor.png);
+}
+.hijo7{
+	position: absolute;
+	top: -80px;
+	left: 70px;
+	width: 200px;
+	height: 150px;
+	background: url(baque.png);
+	transform: rotate(190deg);
+}
+.hijo8{
+	position: absolute;
+	top: -300px;
+	left: -30px;
+	width: 300px;
+	height: 400px;
+	transform: rotate(120deg);
+	background: url(guitarra.png);
+}
+.texto{
+	position: absolute;
+	top: 200px;
+	left: -300px;
+	width: 500px;
+	height: 300px;
+  color: yellow;
+}
